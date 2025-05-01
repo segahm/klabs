@@ -327,7 +327,7 @@ h3 {
   grid-template-columns: 1fr 1fr;
   grid-auto-columns: 1fr;
   max-width: 960px;
-  min-height: 750px;
+  min-height: 650px;
   margin-left: auto;
   margin-right: auto;
   display: grid;
@@ -1260,7 +1260,7 @@ h3 {
 .home-hero-item__line {
   background-color: var(--primary);
   width: 1px;
-  height: 48px;
+  height: 18px;
 }
 
 .b-digital-products {
@@ -2051,7 +2051,7 @@ h3 {
   }
 
   .home-hero-item__line {
-    height: 24px;
+    height: 18px;
   }
 
   .b-dataml__col1 {
